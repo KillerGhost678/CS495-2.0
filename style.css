@@ -1,0 +1,19 @@
+body {
+	margin:300px;
+	margin-left:600px;
+  font-size: 12;
+  color: white;
+  background-color: black;
+}
+
+
+
+input,
+button,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  color:blue;
+}
